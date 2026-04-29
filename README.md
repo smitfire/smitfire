@@ -40,6 +40,12 @@ Currently lead contributor at **[Delta Labs](https://www.delta-labs.ch/)**, the 
 - **[smitfire/cv](https://github.com/smitfire/cv)** &nbsp;·&nbsp; CV pipeline + portfolio site &nbsp;→&nbsp; [smitfire.github.io/cv](https://smitfire.github.io/cv/)
 - **[BlueBrain/core-web-app](https://github.com/BlueBrain/core-web-app)** &nbsp;·&nbsp; public web app I led the frontend on at EPFL — React / Next.js / TypeScript over a 1M+ node neuroscience knowledge graph
 
+## By the numbers
+
+> **2,266** contributions in the last 12 months &nbsp;·&nbsp; **320+** merged PRs across **8** repos at Delta Labs in 10 months &nbsp;·&nbsp; **118** public repos &nbsp;·&nbsp; on GitHub since **2012**
+
+[![Nick's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=smitfire&theme=minimal&bg_color=00000000&color=18181b&line=c2410c&point=c2410c&area=true&hide_border=true&height=200)](https://github.com/smitfire)
+
 ## Earlier
 
 - **CTO** at Ranova (Geneva, healthcare data)
